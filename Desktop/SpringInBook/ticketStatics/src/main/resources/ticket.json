@@ -1,0 +1,76 @@
+{
+ "ticket" :
+ [
+  {
+    "id" : 5012,
+    "departure": "Владивосток",
+    "arrive": "Тель-Авив",
+    "departure_date": "24.05.21",
+    "departure_time": "12:20",
+    "arrive_date": "24.05.21",
+    "arrive_time": "22:10"
+  },
+  {
+    "id" : 2011,
+    "departure": "Владивосток",
+    "arrive": "Тель-Авив",
+    "departure_date": "19.05.21",
+    "departure_time": "17:20",
+    "arrive_date": "19.05.21",
+    "arrive_time": "23:50"
+  },
+  {
+    "id" : 1010,
+    "departure": "Владивосток",
+    "arrive": "Тель-Авив",
+    "departure_date": "17.05.21",
+    "departure_time": "12:10",
+    "arrive_date": "17.05.21",
+    "arrive_time": "18:10"
+  },
+  {
+    "id" : 5030,
+    "departure": "Владивосток",
+    "arrive": "Тель-Авив",
+    "departure_date": "20.02.21",
+    "departure_time": "17:00",
+    "arrive_date": "20.02.21",
+    "arrive_time": "23:30"
+  },
+  {
+    "id" : 9087,
+    "departure": "Владивосток",
+    "arrive": "Тель-Авив",
+    "departure_date": "22.03.21",
+    "departure_time": "12:10",
+    "arrive_date": "22.03.21",
+    "arrive_time": "20:15"
+  },
+  {
+    "id" : 8989,
+    "departure": "Владивосток",
+    "arrive": "Тель-Авив",
+    "departure_date": "30.05.21",
+    "departure_time": "10:40",
+    "arrive_date": "30.05.21",
+    "arrive_time": "20:25"
+  }, {
+  "id" : 7777,
+  "departure": "Владивосток",
+  "arrive": "Тель-Авив",
+  "departure_date": "24.05.21",
+  "departure_time": "12:10",
+  "arrive_date": "24.05.21",
+  "arrive_time": "19:45"
+},
+  {
+    "id" : 3333,
+    "departure": "Владивосток",
+    "arrive": "Тель-Авив",
+    "departure_date": "25.05.21",
+    "departure_time": "3:10",
+    "arrive_date": "25.05.21",
+    "arrive_time": "10:25"
+  }
+]
+}
